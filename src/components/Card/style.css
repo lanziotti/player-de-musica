@@ -1,0 +1,27 @@
+.card {
+    height: 436px;
+    width: 260px;
+    cursor: pointer;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card img {
+    height: 260px;
+    width: 260px;
+}
+
+.card h3 {
+    color: #ffff;
+    font-size: 20px;
+    margin: 8px 0;
+}
+
+.card p {
+    color: #ccc3c3;
+    font-size: 16px;
+    text-align: justify;
+}

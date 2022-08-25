@@ -1,0 +1,39 @@
+.container {
+    background: linear-gradient(180deg, #0C0505 0%, #3A3535 47.92%, #5E5858 100%);
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+main {
+    max-width: 1440px;
+}
+
+main h2 {
+    color: #ffff;
+    border-bottom: 1px solid #6a6363;
+    padding-bottom: 24px;
+    margin-bottom: 12px;
+}
+
+.container-cards {
+    display: flex;
+    gap: 34px;
+    width: 85%;
+    height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif; */
