@@ -3,7 +3,7 @@
 ### Projeto em desenvolvimento no curso da Cubos Academy
 
 #### Descrição:
-Projeto de um player de música simples com suas principais funcionalidades (play, pause, stop, mudar de música).
+Projeto de um player de música simples com suas principais funcionalidades (play, pause, stop, mudar de música), cujo layout teve como base o (arquivo.fig).
 
 #### Linguaguens utilizadas:
 - HTML
