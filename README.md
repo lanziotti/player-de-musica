@@ -8,8 +8,7 @@ Projeto de um player de música simples com suas principais funcionalidades (pla
 #### Linguaguens utilizadas:
 - HTML
 - CSS
-- Javascript
-- ReactJS
+- Javascript (ReactJS)
 
 #### Vídeo do projeto:
 
